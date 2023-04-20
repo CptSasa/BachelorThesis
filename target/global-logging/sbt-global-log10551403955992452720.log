@@ -1,0 +1,9 @@
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Salim\IdeaProjects\CRDTCounter\target\scala-2.13\test-classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.10. Compiling...
+[info]   Compilation completed in 16.908s.
+[info] done compiling
+[success] Total time: 23 s, completed 11.04.2023, 14:43:37
+[debug] > Exec(idea-shell, None, None)

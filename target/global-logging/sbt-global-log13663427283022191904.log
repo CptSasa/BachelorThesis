@@ -1,0 +1,8 @@
+[debug] > Exec(test-quick, None, None)
+[error] Not a valid command: test-quick
+[error] Not a valid project ID: test-quick
+[error] Expected ':'
+[error] Not a valid key: test-quick (similar: testQuick, test)
+[error] test-quick
+[error]           ^
+[debug] > Exec(idea-shell, None, None)
